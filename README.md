@@ -6,3 +6,6 @@ Just another repository
 
 # Second
 学会用Git版本控制
+
+# Third
+在命令行学会上传修改
